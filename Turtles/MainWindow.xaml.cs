@@ -295,8 +295,6 @@ namespace Turtles
 			}
 			
 			//fred.Filling = false;
-
-			// test edit
 		}
 	}
 }
