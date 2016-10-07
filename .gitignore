@@ -241,4 +241,4 @@ ModelManifest.xml
 # FAKE - F# Make
 .fake/
 
-# /_data/
+/_data/
